@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1. What is the range of short data type in Java?</string>
+    <string name="question2">2. Which of the followings is/are automatically added to every class, if we do not write our own.</string>
+    <!-- use on java class question no 2 -->
+    <string name="question1_ans1">Copy Constructor</string>
+    <string name="question1_ans2">Assignment Operator</string>
+    <string name="question1_ans3">A constructor without any parameter</string>
+    <string name="question1_ans4">Construct</string>
+
+
+    <string name="question3">3. Which of the following are legal lines of Java code?\n
+   \ta. int w = (int)888.8;\n
+   \tb. byte x = (byte)100L;\n
+   \tc. long y = (byte)100;\n
+   \td. byte z = (byte)100L;</string>
+    <string name="question4">4.In which api level support android iceCreamSandwich
+answer in number.\nhint:eg 10</string>
+    <string name="question5">za</string>
+    <string name="question6">swd</string>
+
+
+
+
+</resources>
